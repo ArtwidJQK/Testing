@@ -1,0 +1,2 @@
+print("Hello")
+cout << ("Bye");
